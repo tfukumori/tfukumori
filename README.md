@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/tfukumori/posts.svg)](http://qiita.com/tfukumori)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/tfukumori/contributions.svg)](http://qiita.com/tfukumori)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/tfukumori/followers.svg)](http://qiita.com/tfukumori)
+                
 
 <!--
 **tfukumori/tfukumori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
